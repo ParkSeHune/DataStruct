@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\com\Desktop\Programing\Project Manager\GitHub\GitHub\DataStruct\Program\class6th (Linear Queue)\source.cpp(13,1): warning C4172: returning address of local variable or temporary 
+C:\Users\com\Desktop\Programing\Project Manager\GitHub\GitHub\DataStruct\Program\class6th (Linear Queue)\source.cpp(21,1): warning C4172: returning address of local variable or temporary 
+  class6th (Linear Queue).vcxproj -> C:\Users\com\Desktop\Programing\Project Manager\GitHub\GitHub\DataStruct\Program\x64\Debug\class6th (Linear Queue).exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\com\\Desktop\\Programing\\Project Manager\\GitHub\\GitHub\\DataStruct\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE23155-6A6F-441C-84EC-9E8703FE26A7}|Program\\Program.vcxproj|C:\\Users\\com\\Desktop\\Programing\\Project Manager\\GitHub\\GitHub\\DataStruct\\Program\\Program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFE23155-6A6F-441C-84EC-9E8703FE26A7}|Program\\Program.vcxproj|solutionrelative:Program\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\com\\Desktop\\Programing\\Project Manager\\GitHub\\GitHub\\DataStruct\\Program\\Program\\main.cpp",
+              "RelativeDocumentMoniker": "Program\\main.cpp",
+              "ToolTip": "C:\\Users\\com\\Desktop\\Programing\\Project Manager\\GitHub\\GitHub\\DataStruct\\Program\\Program\\main.cpp",
+              "RelativeToolTip": "Program\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T09:07:43.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
